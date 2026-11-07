@@ -1,3 +1,5 @@
+<!-- Grundlage: data-analytics-ws2425/github-starter-course; übernommen für WS 2026/27. -->
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
